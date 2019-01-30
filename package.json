@@ -2,7 +2,7 @@
   "name": "experis-workshop",
   "version": "0.1.0",
   "private": true,
-  "homepage": “https://gummangummangumman.github.io/workshop",
+  "homepage": “https://gummangummangumman.github.io/experis-workshop",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
