@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/experis-workshop/static/css/main.247337c9.chunk.css"
   },
   {
-    "revision": "a5419693276fab03be2fb10692f0bdd1",
+    "revision": "6f6578a01b17dfc65dfd60fc18d0971f",
     "url": "/experis-workshop/index.html"
   }
 ];
