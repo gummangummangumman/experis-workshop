@@ -1,0 +1,41 @@
+.wrapper {
+  background: #e2ffe3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table {
+  border-spacing: 0px;
+  width: 100%;
+}
+
+th {
+  text-align: start;
+  padding: 5px;
+  color: #443635;
+}
+
+td {
+  padding: 5px;
+  max-width: 700px;
+  vertical-align: top;
+  color: #443635;
+}
+
+.number {
+  text-align: center;
+}
+
+
+tbody > tr:nth-child(odd) {
+  background: #fee2ff;
+}
+
+tbody > tr:nth-child(even) {
+  background: #e2fdff;
+}
+
+h1 {
+  color: #443635;
+}
