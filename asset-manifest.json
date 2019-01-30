@@ -1,7 +1,7 @@
 {
   "main.css": "/experis-workshop/static/css/main.9b7c0b1c.chunk.css",
-  "main.js": "/experis-workshop/static/js/main.be86551a.chunk.js",
-  "main.js.map": "/experis-workshop/static/js/main.be86551a.chunk.js.map",
+  "main.js": "/experis-workshop/static/js/main.87158d8f.chunk.js",
+  "main.js.map": "/experis-workshop/static/js/main.87158d8f.chunk.js.map",
   "static/js/1.4a34e45d.chunk.js": "/experis-workshop/static/js/1.4a34e45d.chunk.js",
   "static/js/1.4a34e45d.chunk.js.map": "/experis-workshop/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/experis-workshop/static/js/runtime~main.96c55a82.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/experis-workshop/static/media/logo.5d5d9eef.svg",
   "static/css/main.9b7c0b1c.chunk.css.map": "/experis-workshop/static/css/main.9b7c0b1c.chunk.css.map",
   "index.html": "/experis-workshop/index.html",
-  "precache-manifest.5856d5767d5b125eb64c54be52e2db23.js": "/experis-workshop/precache-manifest.5856d5767d5b125eb64c54be52e2db23.js",
+  "precache-manifest.06d49f2d2206fd9318e01a76ea0ddf79.js": "/experis-workshop/precache-manifest.06d49f2d2206fd9318e01a76ea0ddf79.js",
   "service-worker.js": "/experis-workshop/service-worker.js"
 }
